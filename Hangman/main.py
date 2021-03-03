@@ -26,7 +26,7 @@ for _ in range(word_length):
 while not end_of_game:
     guess = input("Guess a letter: ").lower()
 
-    from replit import clear 
+    from replit import clear  # as this program was coded on replit so this module was used to clear the screen after every iteration.
     clear()
 
     #TODO-4: - If the user has entered a letter they've already guessed, print the letter and let them know.
