@@ -1,4 +1,4 @@
-from replit import clear
+from replit import clear # this program was coded in replit so using this module to clear the screen further.
 #HINT: You can call clear() to clear the output in the console.
 
 from art import logo
